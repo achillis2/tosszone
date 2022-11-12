@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+*.csv
+data
+.DS_Store
+.env
+.envrc
+bin/
+geckodriver.log
+lib/
+pyvenv.cfg
+tosszone_shell.py
